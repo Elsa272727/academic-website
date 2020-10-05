@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: M.A. in Architecture
+  - course: MSc in Architecture
     institution: Southeast University
     year: Sep 2018 - present (Expected graduation: Jun 2020)
-  - course: B.A. in Architecture
+  - course: BSc in Architecture
     institution: Nanjing Tech University
     year: Sep 2013 - Jun 2018
 
