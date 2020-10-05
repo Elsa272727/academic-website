@@ -9,7 +9,7 @@
   weight = 10
 
 [[main]]
-  name = "Research Experience"
+  name = "Research experience"
   url = "#accomplishments"
   weight = 30
 
@@ -32,5 +32,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "⁨iCloud Drive⁩/⁨Documents⁩/HXY⁩/⁨003Program Learning⁩/⁨website_huxy272727⁩/⁨static/⁩files/Xinyi_Hu_CV_Oct2020_Updated.pdf"
+   url = "⁨⁩files/cv.pdf"
    weight = 70
