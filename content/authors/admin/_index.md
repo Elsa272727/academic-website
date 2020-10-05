@@ -21,18 +21,19 @@ organizations:
 bio: My research interests include energy-efficient building, industrialized housing and life cycle energy analysis(LCEA) of buildings.
 
 interests:
-- Energy efficiency in building
-- Industrialized housing
-- life cycle energy analysis of buildings
+- Building energy efficiency design and retrofit
+- Building Integrated Photovoltaic (BIPV) design
+- Building material use calculation
+- Life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment
 
 education:
   courses:
-  - course: MSc in Architecture
+  - course: M.A. in Architecture
     institution: Southeast University
-    year: 01.09.2018 - present
-  - course: BSc in Architecture
+    year: Sep 2018 - present (Expected graduation: Jun 2020)
+  - course: B.A. in Architecture
     institution: Nanjing Tech University
-    year: 07.09.2013 - 22.06.2018
+    year: Sep 2013 - Jun 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,20 +43,20 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "huxy.seu@gmail.com".
-- icon: twitter
+# - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+# - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+# - icon: github
   icon_pack: fab
   link: https://github.com/Elsa272727
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -67,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Xinyi Hu is a MSc student of architecture at Southeast University, China. Her research interests include energy-efficient building, industrialized housing and life cycle energy analysis(LCEA) of buildings.
+Xinyi Hu is a postgraduate student majoring in architecture at Southeast University, China. Her research interests include building energy-efficient design and retrofit, Building Integrated Photovoltaic (BIPV) design and Life-cycle energy (LCEA) and carbon dioxide emissions (LCCO2A) assessment.
